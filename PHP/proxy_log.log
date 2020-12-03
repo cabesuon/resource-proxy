@@ -1,0 +1,17 @@
+
+ 
+12-03-20 03:45:50 | GET detected
+12-03-20 03:45:50 | Pinged
+ 
+12-03-20 03:46:56 | GET detected
+12-03-20 03:46:56 | Pinged
+ 
+12-03-20 03:47:07 | GET detected
+12-03-20 03:47:07 | Proxy could not resolve requested url - www.google.com.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+12-03-20 03:48:56 | GET detected
+12-03-20 03:48:56 | ips table created!
+12-03-20 03:48:56 | clicks table created!
+12-03-20 03:48:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+12-03-20 03:48:57 | Ok to proxy
+12-03-20 03:48:57 | Proxy complete

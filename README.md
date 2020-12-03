@@ -100,6 +100,17 @@ Example of a tag for a resource which does not require authentication
 
 * See the README.md file in the folder of the proxy you want to install for platform specific requirements.
 
+## Docker
+
+(Only for PHP at the moment)
+
+1 - Run the container:
+```
+sudo docker-compose -f docker-compose.php.yml -d --build
+```
+2 - Use proxy: 
+`http://localhost:8082/proxy?ping`
+
 ## Issues
 
 Found a bug or want to request a new feature? Check out previously logged [Issues](https://github.com/Esri/resource-proxy/issues) and/or our [FAQ](FAQ.md).  If you don't see what you're looking for, feel free to submit a [new issue](https://github.com/Esri/resource-proxy/issues/new).
