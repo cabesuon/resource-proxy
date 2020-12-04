@@ -105,10 +105,12 @@ Example of a tag for a resource which does not require authentication
 (Only for PHP at the moment)
 
 1 - Run the container:
+
 ```
-sudo docker-compose -f docker-compose.php.yml -d --build
+sudo docker-compose -f docker-compose.php.yml up -d --build
 ```
-2 - Use proxy: 
+
+2 - Use proxy:
 `http://localhost:8082/proxy?ping`
 
 ## Issues
